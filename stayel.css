@@ -1,0 +1,155 @@
+body{
+    margin: 0px;
+    font-family: 'EB Garamond', serif;
+}
+
+section{
+    height: 400px;
+}
+#hello{
+    font-size: 60px;
+}
+#sudipta{
+    font-size: 40px;
+}
+h1{
+    color: orange;
+}
+
+h2{
+    color: red;
+}
+
+h3{
+    color: skyblue;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+#biography{
+    color: rgb(0, 255, 136);
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+#latest-work-area{
+    text-align: center;
+    color: rgb(113, 255, 47);
+    font-size: 60px;
+   }
+   #strong-latest{
+       font-size: 70px;
+       color: orangered;
+   }
+
+
+   
+ .half-width-three img{
+       width:100%;
+       
+   }
+.half-width-three{
+       width: 25%;
+       float: left;
+       margin-left: 5%;
+       padding-left: 2%;
+   }
+
+
+
+
+
+
+
+.last-part-two{
+    margin:0px 500px;
+    background-image: linear-gradient( 45deg, rgb(255, 122, 226), rgb(255, 71, 71));
+    padding: 30px;
+}
+
+#anquer-color{
+    color: white;
+    text-decoration: none;   
+    font-size: 40px; 
+}
+
+#anquer-d{
+    color: rgb(47, 255, 238);   
+}
+#five-line{
+    color: rgb(128, 126, 0);
+}
+#three-line{
+    color: greenyellow;
+    font-size: 20px;
+}
+#two-line{
+    color: red;
+}
+#first-line{
+    color: green;
+}
+#six-line{
+    color: tomato;
+}
+
+
+
+
+
+
+
+
+.top-part{
+    background-image: url("imeges/header-bg.png");
+    background-repeat: no-repeat;
+}
+.biography-part{
+    background-image: url("imeges/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.work-part{
+    background-image: url("imeges/latess-work-bg-2.png");
+    background-repeat: no-repeat;
+}
+.last-part{
+    text-align: center;
+    background-image: url("imeges/footer-bg.png");
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+    
+
+
+
+
+
+
